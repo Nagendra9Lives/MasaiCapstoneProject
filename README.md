@@ -1,5 +1,4 @@
 # MasaiCapstoneProject
-# Python, Machine Learning & GenAI Projects
 
 This repository contains three modules completed in sequence. The project moves from web data collection, to data analysis and machine learning, and finally to a GenAI/RAG application.
 
