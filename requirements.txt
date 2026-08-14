@@ -1,0 +1,21 @@
+# Module 1 - Books Data Scraping & Database
+requests
+beautifulsoup4
+pandas
+
+# Module 2 - Titanic Data Analysis & Machine Learning
+numpy
+seaborn
+matplotlib
+scikit-learn
+imbalanced-learn
+joblib
+
+# Module 3 - Zepto GenAI RAG Service
+fastapi
+uvicorn
+pydantic
+langgraph
+chromadb
+sentence-transformers
+groq
